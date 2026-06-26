@@ -1,0 +1,5 @@
+numero = float(input("Digite um número decimal: "))
+print(f"Número com duas casas decimais: {numero:.2f}")
+print(f"Número com três casas decimais: {numero:.3f}")
+print(f"Número com quatro casas decimais: {numero:.4f}")
+print(f"Número com porcentagem: {numero}%")
